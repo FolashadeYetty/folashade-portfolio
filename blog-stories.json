@@ -1,0 +1,191 @@
+[
+  {
+    "slug": "digital-ai",
+    "category": "Digital & AI",
+    "title": "A more thoughtful way to explore digital tools",
+    "excerpt": "A space for practical experiments, useful discoveries and questions worth asking about technology.",
+    "image": "images/profile/fffola.png",
+    "alt": "Folashade Adekunle portrait",
+    "date": null,
+    "author": "Folashade Adekunle",
+    "sample": true,
+    "body": [
+      {
+        "heading": "Digital tools, with intention",
+        "paragraphs": [
+          "This is a sample editorial layout, not a published story or a report on current events. The headline, excerpt and image demonstrate how future content can appear on this website.",
+          "Replace this paragraph with an original introduction that explains the subject, why it matters and what readers can expect. The photograph is reused from the existing portfolio as a visual placeholder."
+        ]
+      },
+      {
+        "heading": "Room for a deeper look",
+        "paragraphs": [
+          "Use this section for your perspective, practical examples or a carefully sourced discussion. Add links to original sources when making factual claims, and distinguish your own observations from reported information.",
+          "Finish with a useful takeaway or a question for readers. Set a real publication date only when the article is ready to publish."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "culture-society",
+    "category": "Culture & Society",
+    "title": "The conversations worth making room for",
+    "excerpt": "An editorial space for thoughtful perspectives on the communities and culture around us.",
+    "image": "images/profile/folpotrait.png",
+    "alt": "Folashade Adekunle portrait",
+    "date": null,
+    "author": "Folashade Adekunle",
+    "sample": true,
+    "body": [
+      {
+        "heading": "Making room for perspective",
+        "paragraphs": [
+          "This is a sample editorial layout, not a published story or a report on current events. The headline, excerpt and image demonstrate how future content can appear on this website.",
+          "Replace this paragraph with an original introduction that explains the subject, why it matters and what readers can expect. The photograph is reused from the existing portfolio as a visual placeholder."
+        ]
+      },
+      {
+        "heading": "Room for a deeper look",
+        "paragraphs": [
+          "Use this section for your perspective, practical examples or a carefully sourced discussion. Add links to original sources when making factual claims, and distinguish your own observations from reported information.",
+          "Finish with a useful takeaway or a question for readers. Set a real publication date only when the article is ready to publish."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "property",
+    "category": "Property",
+    "title": "From a foundation to a bigger vision",
+    "excerpt": "A place to explore planning, communication and the work behind a property project.",
+    "image": "images/properties/completed.webp",
+    "alt": "Arewa Properties construction project photograph",
+    "date": null,
+    "author": "Folashade Adekunle",
+    "sample": true,
+    "body": [
+      {
+        "heading": "Behind the finished building",
+        "paragraphs": [
+          "This is a sample editorial layout, not a published story or a report on current events. The headline, excerpt and image demonstrate how future content can appear on this website.",
+          "Replace this paragraph with an original introduction that explains the subject, why it matters and what readers can expect. The photograph is reused from the existing portfolio as a visual placeholder."
+        ]
+      },
+      {
+        "heading": "Room for a deeper look",
+        "paragraphs": [
+          "Use this section for your perspective, practical examples or a carefully sourced discussion. Add links to original sources when making factual claims, and distinguish your own observations from reported information.",
+          "Finish with a useful takeaway or a question for readers. Set a real publication date only when the article is ready to publish."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "business",
+    "category": "Business",
+    "title": "Small ideas, considered beginnings",
+    "excerpt": "A future home for reflections on building ventures and turning curiosity into practical value.",
+    "image": "images/skincare/centralphoto.png",
+    "alt": "Arewa Skincare portfolio photograph",
+    "date": null,
+    "author": "Folashade Adekunle",
+    "sample": true,
+    "body": [
+      {
+        "heading": "An idea becomes a venture",
+        "paragraphs": [
+          "This is a sample editorial layout, not a published story or a report on current events. The headline, excerpt and image demonstrate how future content can appear on this website.",
+          "Replace this paragraph with an original introduction that explains the subject, why it matters and what readers can expect. The photograph is reused from the existing portfolio as a visual placeholder."
+        ]
+      },
+      {
+        "heading": "Room for a deeper look",
+        "paragraphs": [
+          "Use this section for your perspective, practical examples or a carefully sourced discussion. Add links to original sources when making factual claims, and distinguish your own observations from reported information.",
+          "Finish with a useful takeaway or a question for readers. Set a real publication date only when the article is ready to publish."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "lifestyle",
+    "category": "Lifestyle",
+    "title": "Finding beauty in the everyday",
+    "excerpt": "A quiet corner for useful finds, personal interests and everyday inspiration.",
+    "image": "images/skincare/shower.png",
+    "alt": "Photograph from the Arewa Skincare portfolio",
+    "date": null,
+    "author": "Folashade Adekunle",
+    "sample": true,
+    "body": [
+      {
+        "heading": "The everyday edit",
+        "paragraphs": [
+          "This is a sample editorial layout, not a published story or a report on current events. The headline, excerpt and image demonstrate how future content can appear on this website.",
+          "Replace this paragraph with an original introduction that explains the subject, why it matters and what readers can expect. The photograph is reused from the existing portfolio as a visual placeholder."
+        ]
+      },
+      {
+        "heading": "Room for a deeper look",
+        "paragraphs": [
+          "Use this section for your perspective, practical examples or a carefully sourced discussion. Add links to original sources when making factual claims, and distinguish your own observations from reported information.",
+          "Finish with a useful takeaway or a question for readers. Set a real publication date only when the article is ready to publish."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "career",
+    "category": "Career",
+    "title": "Learning across different worlds",
+    "excerpt": "A future editorial on connecting science, digital skills and entrepreneurial curiosity.",
+    "image": "images/profile/4la.png",
+    "alt": "Folashade Adekunle portrait",
+    "date": null,
+    "author": "Folashade Adekunle",
+    "sample": true,
+    "body": [
+      {
+        "heading": "A path shaped by curiosity",
+        "paragraphs": [
+          "This is a sample editorial layout, not a published story or a report on current events. The headline, excerpt and image demonstrate how future content can appear on this website.",
+          "Replace this paragraph with an original introduction that explains the subject, why it matters and what readers can expect. The photograph is reused from the existing portfolio as a visual placeholder."
+        ]
+      },
+      {
+        "heading": "Room for a deeper look",
+        "paragraphs": [
+          "Use this section for your perspective, practical examples or a carefully sourced discussion. Add links to original sources when making factual claims, and distinguish your own observations from reported information.",
+          "Finish with a useful takeaway or a question for readers. Set a real publication date only when the article is ready to publish."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "trending",
+    "category": "Trending",
+    "title": "Before joining the conversation, ask better questions",
+    "excerpt": "A placeholder for future commentary that makes room for context, sources and careful thinking.",
+    "image": "images/properties/materials.webp",
+    "alt": "Building materials from the Arewa Properties portfolio",
+    "date": null,
+    "author": "Folashade Adekunle",
+    "sample": true,
+    "body": [
+      {
+        "heading": "Context before commentary",
+        "paragraphs": [
+          "This is a sample editorial layout, not a published story or a report on current events. The headline, excerpt and image demonstrate how future content can appear on this website.",
+          "Replace this paragraph with an original introduction that explains the subject, why it matters and what readers can expect. The photograph is reused from the existing portfolio as a visual placeholder."
+        ]
+      },
+      {
+        "heading": "Room for a deeper look",
+        "paragraphs": [
+          "Use this section for your perspective, practical examples or a carefully sourced discussion. Add links to original sources when making factual claims, and distinguish your own observations from reported information.",
+          "Finish with a useful takeaway or a question for readers. Set a real publication date only when the article is ready to publish."
+        ]
+      }
+    ]
+  }
+]
